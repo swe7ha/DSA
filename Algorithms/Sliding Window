@@ -18,3 +18,6 @@ Algorithms:
   2. Size is given in few problems
   3. These problems can be solved in O(N2) TC using nested loops but using sliding window, they can be solved in O(N).
   4. TC should be O(N) or O(NlogN)
+
+Caterpillar Method:
+ * At every step, either right or left pointer should be moved.
